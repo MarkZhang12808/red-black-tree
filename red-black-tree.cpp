@@ -53,7 +53,7 @@ int main(){
         bool rootInitialized = false;
         bool treeSession = true;
         while(treeSession == true){ //takes commands to edit 1 tree, when all nodes in the tree are deleted, everything is re-initialized to start a new tree session
-            cout << "Enter a command: [add] a series of numbers, [read] from a file, [print] tree, [search] for a node, or [quit] the program" << endl;
+            cout << "Enter a command: [add] a series of numbers, [read] from a file, [print] tree, [search] for a node, [delete] nodes, or [quit] the program" << endl;
             char* input = new char[10];
             int* array = new int[100];
             int index = 0;
