@@ -7,7 +7,7 @@ REFERENCES FOR INSERTION:
   https://courses.cs.duke.edu/spring05/cps130/lectures/skiena.lectures/lecture10.pdf 
   http://pages.cs.wisc.edu/~cs400/readings/Red-Black-Trees/ 
   https://www.cs.auckland.ac.nz/software/AlgAnim/red_black.html
-REFERENCE FOR DELETION:
+REFERENCEs FOR DELETION:
   https://web.eecs.umich.edu/~sugih/courses/eecs281/f11/lectures/11-Redblack.pdf
   http://www.cs.otago.ac.nz/cosc242/pdf/L17.pdf
 */
